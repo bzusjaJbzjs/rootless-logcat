@@ -10,6 +10,8 @@ Next step is to enable remote debugging. You need to have Android SDK installed 
 
 ```
 adb tcpip 5555
+
+
 ```
 
 Disconnect USB cable before trying to use the app. Some phones have problems handling network ADB connection when they are connected via USB as well.
